@@ -134,17 +134,19 @@ Connector label: **X16 (Modular Plug Three-Part)**
 #### Work to be Done
 - Identify the Red (+12V) and Brown (Ground) wires powering seat controls.  
 - Cut a few inches back from the connector (car side).  
-- Install an automotive connector on the car/supply side. Use **socket connections** here.  
-- By convention:  
-  - Supply side = Socket  
-  - Load side = Spade  
-  - Pin 1 = Ground  
-  - Pin 2 = +12V  
+- Install an automotive connector on the car/supply side.
+- On the custom Autmotive connector, I followed the following convention:  
+  - Supply side = Spade (Larger connector with protective shroud)
+  - Pin 1 = +12V
+  - Pin 2 = GND
 
 ### 987 / 997 Passenger Seat (Non-Memory)
 - The yellow connector also contains +12V and Ground.  
 - Cut the wires a few inches back, attach a spade-side automotive connector.  
-- Ensure Pin 1 = Ground, Pin 2 = +12V.  
+- On the custom Autmotive connector, I followed the following convention: 
+      - Load side = Socket (Smaller connector)
+      - Pin 1 = +12V
+      - Pin 2 = GND
 
 ![yellow_connector]  
 
@@ -161,10 +163,10 @@ At this stage, wiring should be complete.
 Follow the same steps as the passenger seat.  
 
 - Goal: bring both +12V and Ground into a 2-pin automotive connector.  
-- Convention:  
-  - Supply side = Socket  
-  - Pin 1 = Ground  
-  - Pin 2 = +12V  
+- - For the custom Autmotive connector, I followed the following convention: 
+  - Supply side = Spade (Larger connector with protective shroud)  
+  - Pin 1 = +12V  
+  - Pin 2 = GND  
 
 ---
 
