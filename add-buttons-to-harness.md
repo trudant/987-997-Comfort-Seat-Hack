@@ -6,4 +6,9 @@ Note that this layouts are prelimnary and not yet refined! Build at your own ris
 
 ![alt text](diagrams/can-harness-with-buttons-concept.png)
 
+![alt text](images/buttons-2.jpg)
 
+![alt text](images/buttons.jpg)
+
+
+![alt text](images/onshape-housing-button-holes.png)

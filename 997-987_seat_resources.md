@@ -64,11 +64,12 @@ This first diagram seems to be the ‘official’ wiring diagram from the shop m
 Official Wiring Diagram
 
 ## System Level Wiring Diagram
-
-
 ![system_wiring]
+System Diagram for Comfort CAN
 
-
+## ODBII Debug Port
+![alt text](images/987-odbii.png)
+ODBII Port for 987
 
 
 <!-- Images Source Links -->
