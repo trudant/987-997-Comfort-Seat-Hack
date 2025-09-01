@@ -1,11 +1,11 @@
-# Goal: Replace 986/996 Seats with 997/987 Seats
+# Goal: Install Porsche 987 / 997 Comfort Seats in my Porsche 986 / 996
 
-**TL;DR**: Installing 997/987 comfort seats in a 986/996 is absolutely worth it! They fit perfectly, are much more comfortable, and the re-wiring is straightforward.  
+**TL;DR**: Installing 987 / 997 comfort seats in a 986/996 is absolutely worth it! They fit perfectly, are much more comfortable, and the re-wiring is straightforward.
 
 (You will need to cut some wires, install connectors, and build a special harness for the driver’s side—but nothing too exotic. If you leave a few inches of slack when cutting, the process is reversible.)
 
 ![alt text](images/can-transceiver-iso-open.jpg)  
-**Figure 1.** Custom CAN harness for seat power and CAN messages (for the 997/987 driver’s seat).
+**Figure 1.** Custom CAN harness for seat power and CAN messages (for the 987 / 997 driver’s seat).
 
 Here’s what it looks like when finished:  
 ![alt text](images/987-seats-installed-seats.png)  
@@ -16,10 +16,10 @@ Here’s what it looks like when finished:
 ## Problem Statement
 - The original 986 seats are torn and need to be replaced or repaired.
 
-### Should I Consider 997/987 Comfort Seats? — **YES!**
+### Should I Consider 987 / 997 Comfort Seats? — **YES!**
 
 #### Advantages
-- 997/987 seats bolt in with no modification (mounting holes align perfectly).  
+- 987 / 997 seats bolt in with no modification (mounting holes align perfectly).  
 - Seat belt latch transfers seamlessly.  
 - Available in the same colors as 986/996 seats.  
 - More comfortable, with additional adjustments (including lumbar support).  
@@ -141,7 +141,7 @@ Connector label: **X16 (Modular Plug Three-Part)**
   - Pin 1 = Ground  
   - Pin 2 = +12V  
 
-### 997/987 Passenger Seat (Non-Memory)
+### 987 / 997 Passenger Seat (Non-Memory)
 - The yellow connector also contains +12V and Ground.  
 - Cut the wires a few inches back, attach a spade-side automotive connector.  
 - Ensure Pin 1 = Ground, Pin 2 = +12V.  
@@ -168,7 +168,7 @@ Follow the same steps as the passenger seat.
 
 ---
 
-## 997/987 Comfort Memory Driver Seat
+## 987 / 997 Comfort Memory Driver Seat
 
 > Always disconnect the battery before working.  
 
@@ -295,11 +295,11 @@ This short program sends the required commands continuously when powered and rec
 ---
 
 ## Additional Resources
-- [996 / 986 Seat Resources](996-986_seat_resources.md)  
-- [997 / 987 Seat Resources](997-987_seat_resources.md)  
+- [986 / 996 Seat Resources](996-986_seat_resources.md)  
+- [987 / 997 Seat Resources](997-987_seat_resources.md)  
 
 
-## Hacking the 997 / 987 Seat Controller
+## Hacking the 987 / 997 Seat Controller
 We used record and playback of CAN signals to get this far but still have a dream of being able to both store and recall seat memory form this setup. The following links provide resources related to that exploration.
 
 - [Link to RAW CAN Recordings](Reference/Recordings)
