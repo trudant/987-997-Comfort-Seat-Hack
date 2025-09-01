@@ -1,0 +1,39 @@
+The approximate timings (in seconds since the Pi started) are:
+
+70: unlock
+118: Open door
+136: memory 1
+146: memory 1 (again)
+167: memory 2
+181: memory 2 (again)
+197: memory 3
+210: memory 3 (again)
+
+225: store memory 1 (or key memory)
+241: store memory 1
+256: store memory 2
+266: store memory 2
+285: store memory 3
+297: store memory 3
+
+314: ignition on
+330: memory 1
+342: memory 2
+350: memory 3
+
+427: door closed
+480: door open
+496: ignition off
+503: door closed
+550: locked
+
+650: unlocked (key 2)
+655: door opened
+714: Ignition on
+
+
+
+Source: @remarklima
+https://911uk.com/porsche/987-997-comfort-can-help-needed-for-987-memory-seat-install-in-a-986.128417/page-2#post-2732154
+
+Model: Porsche 997.1 S
